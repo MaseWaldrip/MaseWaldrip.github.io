@@ -16,20 +16,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="78">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-569" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="150">
+              <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -37,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
+            <state relative-caret-position="2505">
               <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -51,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
+            <state relative-caret-position="1050">
               <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
             </state>
           </provider>
@@ -90,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,12 +115,17 @@
               <item name="MaseWaldrip.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MaseWaldrip.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaseWaldrip.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="styles.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,11 +186,12 @@
       <workItem from="1636080077944" duration="70000" />
       <workItem from="1636080165342" duration="153000" />
       <workItem from="1636080332838" duration="942000" />
+      <workItem from="1636081452970" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17460000" />
+    <option name="totallyTimeSpent" value="17725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,9 +204,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -209,7 +222,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30722892" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -251,6 +264,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
@@ -281,16 +308,9 @@
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
+        <state relative-caret-position="2505">
           <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -300,18 +320,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/HTML/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="1050">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        <state relative-caret-position="78">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569" />
       </provider>
     </entry>
   </component>
