@@ -34,7 +34,7 @@
 */
 
 // Define base and accent colors
-$base-color: #FFF;
+$base-color: #ffaffb;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
@@ -45,8 +45,8 @@ $background-alt: #f2f2f5;
 $border: #C0C0C0;
 
 // Define text colors
-$heading: #E6BE1F;
-$text: #74808a;
+$heading: rgb(246, 211, 255);
+$text: #fff;
 
 /*
     ---------------------
