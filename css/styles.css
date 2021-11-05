@@ -51,7 +51,7 @@ body.active {
 }
 
 .no-js #experience-timeline > div {
-  background: #F7F3E9;
+  background: #f7e6ad;
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #b2d1cb;
@@ -59,7 +59,7 @@ body.active {
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #73d1c0;
+  color: #a3d2ca;
   display: inline-block;
   margin: 0;
 }
@@ -70,7 +70,7 @@ body.active {
   margin: 0 0 15px 0;
 }
 .no-js #experience-timeline > div p {
-  color: #b9b9b9;
+  color: #ffffff;
   font-size: 0.9em;
   margin: 0;
 }
@@ -100,7 +100,7 @@ header {
 }
 header ul {
   display: inline-block;
-  background: #F7F3E9;
+  background: #f7e6ad;
   text-align: center;
   padding: 10px;
   margin: 0;
@@ -148,14 +148,14 @@ header.sticky {
   z-index: 20;
   padding: 0 7px;
   border-radius: 4px;
-  background: #F7F3E9;
+  background: #f7e6ad;
 }
 
 #mobile-menu-close {
   display: none;
   text-align: right;
   width: 100%;
-  background: #F7F3E9;
+  background: #f7e6ad;
   font-size: 1.5em;
   padding-right: 15px;
   padding-top: 10px;
@@ -179,7 +179,7 @@ footer {
 }
 .copyright p {
   margin: 0;
-  color: #b9b9b9;
+  color: #ffffff;
 }
 
 .top {
@@ -192,11 +192,11 @@ footer {
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  border: 3px solid #f9f9f9;
+  border: 3px solid white;
   text-align: center;
 }
 .top i {
-  color: #b9b9b9;
+  color: #ffffff;
 }
 
 .social {
@@ -213,7 +213,7 @@ footer {
 }
 .social a {
   display: block;
-  color: #b9b9b9;
+  color: #ffffff;
   padding: 10px;
 }
 .social a:hover {
@@ -262,7 +262,7 @@ footer {
 }
 
 .background-alt {
-  background: #cbc7be;
+  background: #d3c28b;
 }
 
 /*
@@ -371,10 +371,10 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #about h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
 }
 #about p {
-  color: #b9b9b9;
+  color: #ffffff;
   margin: 0;
 }
 
@@ -389,7 +389,7 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #experience h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
 }
 
 #experience-timeline {
@@ -431,7 +431,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #73d1c0;
+  color: #a3d2ca;
   display: inline-block;
   margin: 0;
 }
@@ -442,7 +442,7 @@ footer {
   margin: 0 0 15px 0;
 }
 .vtimeline-content p {
-  color: #b9b9b9;
+  color: #ffffff;
   font-size: 0.9em;
   margin: 0;
 }
@@ -492,7 +492,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
   margin-bottom: 50px;
 }
 
@@ -507,21 +507,21 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #73d1c0;
+  color: #a3d2ca;
 }
 .education-block span {
-  color: #b9b9b9;
+  color: #ffffff;
   float: right;
 }
 .education-block h4 {
-  color: #b9b9b9;
+  color: #ffffff;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .education-block p, .education-block ul {
   margin: 0;
-  color: #b9b9b9;
+  color: #ffffff;
   font-size: 0.9em;
 }
 .education-block ul {
@@ -539,7 +539,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
   margin-bottom: 50px;
 }
 
@@ -566,11 +566,11 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #73d1c0;
+  color: #a3d2ca;
   margin: 0 0 15px 0;
 }
 .project-info p {
-  color: #b9b9b9;
+  color: #ffffff;
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
@@ -596,7 +596,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -609,8 +609,8 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #73d1c0;
-  background: #c0bbb0;
+  color: #a3d2ca;
+  background: #ccb879;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -696,7 +696,7 @@ footer {
   border-top: 1px solid #b2d1cb;
 }
 .optional-section h2 {
-  color: #73d1c0;
+  color: #a3d2ca;
 }
 
 .optional-section-block {
@@ -710,17 +710,17 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #73d1c0;
+  color: #a3d2ca;
 }
 .optional-section-block h4 {
-  color: #b9b9b9;
+  color: #ffffff;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .optional-section-block p, .optional-section-block ul {
   margin: 0 0 15px 0;
-  color: #b9b9b9;
+  color: #ffffff;
   font-size: 0.9em;
 }
 .optional-section-block ul {
