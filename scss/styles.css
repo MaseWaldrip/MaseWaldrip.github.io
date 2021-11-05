@@ -112,17 +112,17 @@ header li {
 }
 header a {
   display: block;
-  color: #FCC;
+  color: #FFF;
   padding: 10px;
 }
 header a:hover {
-  color: #ff9999;
+  color: #e6e6e6;
   text-decoration: none;
   background: #eee;
   border-radius: 4px;
 }
 header a:focus {
-  color: #FCC;
+  color: #FFF;
   text-decoration: none;
 }
 header.active {
@@ -143,7 +143,7 @@ header.sticky {
   position: fixed;
   right: 15px;
   top: 10px;
-  color: #FCC;
+  color: #FFF;
   font-size: 1.5em;
   z-index: 20;
   padding: 0 7px;
@@ -160,7 +160,7 @@ header.sticky {
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #FCC;
+  color: #FFF;
 }
 #mobile-menu-close span {
   font-size: 0.5em;
@@ -217,7 +217,7 @@ footer {
   padding: 10px;
 }
 .social a:hover {
-  color: #FCC;
+  color: #FFF;
 }
 
 .btn-rounded-white {
@@ -229,7 +229,7 @@ footer {
   transition: 0.5s ease all;
 }
 .btn-rounded-white:hover {
-  color: #FCC;
+  color: #FFF;
   background: #fff;
   text-decoration: none;
 }
@@ -258,7 +258,7 @@ footer {
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #FCC;
+  background: #FFF;
 }
 
 .background-alt {
@@ -315,7 +315,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(255, 153, 153, 0.8);
+  background: rgba(230, 230, 230, 0.8);
   z-index: 1;
 }
 
@@ -401,7 +401,7 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #FCC;
+  background: #FFF;
   z-index: 0;
 }
 #experience-timeline:after {
@@ -409,8 +409,8 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #FCC;
-  background: linear-gradient(to bottom, #FCC, rgba(255, 204, 204, 0));
+  background: #FFF;
+  background: linear-gradient(to bottom, #FFF, rgba(255, 255, 255, 0));
   top: 100%;
   left: 303px;
 }
@@ -454,7 +454,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #FCC;
+  background: #FFF;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -618,7 +618,7 @@ footer {
 */
 #contact {
   padding: 50px 15px;
-  background: #FCC;
+  background: #FFF;
   text-align: center;
 }
 #contact h2 {
@@ -638,7 +638,7 @@ footer {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #ff8080;
+  background: #d9d9d9;
   color: #fff;
   transition: 0.5s ease all;
 }
@@ -658,7 +658,7 @@ footer {
 }
 #contact-form input:focus, #contact-form textarea:focus {
   outline: none;
-  background: #ff4d4d;
+  background: #bfbfbf;
 }
 #contact-form textarea {
   height: 150px;
@@ -671,7 +671,7 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #FCC;
+  color: #FFF;
   font-weight: 700;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease all;
