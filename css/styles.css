@@ -59,7 +59,7 @@ body.active {
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #F05945;
+  color: #73d1c0;
   display: inline-block;
   margin: 0;
 }
@@ -70,7 +70,7 @@ body.active {
   margin: 0 0 15px 0;
 }
 .no-js #experience-timeline > div p {
-  color: #f0d0cc;
+  color: #b9b9b9;
   font-size: 0.9em;
   margin: 0;
 }
@@ -179,7 +179,7 @@ footer {
 }
 .copyright p {
   margin: 0;
-  color: #f0d0cc;
+  color: #b9b9b9;
 }
 
 .top {
@@ -192,11 +192,11 @@ footer {
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid #f9f9f9;
   text-align: center;
 }
 .top i {
-  color: #f0d0cc;
+  color: #b9b9b9;
 }
 
 .social {
@@ -213,7 +213,7 @@ footer {
 }
 .social a {
   display: block;
-  color: #f0d0cc;
+  color: #b9b9b9;
   padding: 10px;
 }
 .social a:hover {
@@ -301,7 +301,7 @@ footer {
   line-height: 0.9em;
 }
 #lead-content h2 {
-  color: #f9fcfb;
+  color: #e8e8e8;
   font-weight: 500;
   font-size: 2.25em;
   margin-bottom: 15px;
@@ -366,10 +366,10 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #about h2 {
-  color: #F05945;
+  color: #73d1c0;
 }
 #about p {
-  color: #f0d0cc;
+  color: #b9b9b9;
   margin: 0;
 }
 
@@ -384,7 +384,7 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #experience h2 {
-  color: #F05945;
+  color: #73d1c0;
 }
 
 #experience-timeline {
@@ -426,7 +426,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #F05945;
+  color: #73d1c0;
   display: inline-block;
   margin: 0;
 }
@@ -437,7 +437,7 @@ footer {
   margin: 0 0 15px 0;
 }
 .vtimeline-content p {
-  color: #f0d0cc;
+  color: #b9b9b9;
   font-size: 0.9em;
   margin: 0;
 }
@@ -487,7 +487,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #F05945;
+  color: #73d1c0;
   margin-bottom: 50px;
 }
 
@@ -502,21 +502,21 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #F05945;
+  color: #73d1c0;
 }
 .education-block span {
-  color: #f0d0cc;
+  color: #b9b9b9;
   float: right;
 }
 .education-block h4 {
-  color: #f0d0cc;
+  color: #b9b9b9;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .education-block p, .education-block ul {
   margin: 0;
-  color: #f0d0cc;
+  color: #b9b9b9;
   font-size: 0.9em;
 }
 .education-block ul {
@@ -534,7 +534,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #F05945;
+  color: #73d1c0;
   margin-bottom: 50px;
 }
 
@@ -561,11 +561,11 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #F05945;
+  color: #73d1c0;
   margin: 0 0 15px 0;
 }
 .project-info p {
-  color: #f0d0cc;
+  color: #b9b9b9;
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
@@ -591,7 +591,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #F05945;
+  color: #73d1c0;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -604,7 +604,7 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #F05945;
+  color: #73d1c0;
   background: #c0bbb0;
   list-style: none;
   cursor: default;
@@ -691,7 +691,7 @@ footer {
   border-top: 1px solid #b2d1cb;
 }
 .optional-section h2 {
-  color: #F05945;
+  color: #73d1c0;
 }
 
 .optional-section-block {
@@ -705,17 +705,17 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #F05945;
+  color: #73d1c0;
 }
 .optional-section-block h4 {
-  color: #f0d0cc;
+  color: #b9b9b9;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .optional-section-block p, .optional-section-block ul {
   margin: 0 0 15px 0;
-  color: #f0d0cc;
+  color: #b9b9b9;
   font-size: 0.9em;
 }
 .optional-section-block ul {
@@ -833,7 +833,7 @@ footer {
     transform: none;
   }
 
-  footer {
+  footer {s
     text-align: center;
   }
 

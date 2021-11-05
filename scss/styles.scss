@@ -45,8 +45,8 @@ $background-alt: #cbc7be;
 $border: #b2d1cb;
 
 // Define text colors
-$heading: #F05945;
-$text: #f0d0cc;
+$heading: #73d1c0;
+$text: #b9b9b9;
 
 /*
     ---------------------
@@ -378,7 +378,7 @@ footer {
     }
 
     h2 {
-        color: lighten($base-color, 25%);
+        color: lighten(#a8a8a8, 25%);
         font-weight: 500;
         font-size: 2.25em;
         margin-bottom: 15px;
