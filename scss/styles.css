@@ -51,15 +51,15 @@ body.active {
 }
 
 .no-js #experience-timeline > div {
-  background: #fff;
+  background: #f7e6ad;
   padding: 10px;
   margin-bottom: 10px;
-  border: 1px solid #13c030;
+  border: 1px solid #D7E9F7;
 }
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #f6d3ff;
+  color: #F4D19B;
   display: inline-block;
   margin: 0;
 }
@@ -100,7 +100,7 @@ header {
 }
 header ul {
   display: inline-block;
-  background: #fff;
+  background: #f7e6ad;
   text-align: center;
   padding: 10px;
   margin: 0;
@@ -112,17 +112,17 @@ header li {
 }
 header a {
   display: block;
-  color: #ffaffb;
+  color: #FDFCE5;
   padding: 10px;
 }
 header a:hover {
-  color: #ff7cf8;
+  color: #f9f7b6;
   text-decoration: none;
   background: #eee;
   border-radius: 4px;
 }
 header a:focus {
-  color: #ffaffb;
+  color: #FDFCE5;
   text-decoration: none;
 }
 header.active {
@@ -143,24 +143,24 @@ header.sticky {
   position: fixed;
   right: 15px;
   top: 10px;
-  color: #ffaffb;
+  color: #FDFCE5;
   font-size: 1.5em;
   z-index: 20;
   padding: 0 7px;
   border-radius: 4px;
-  background: #fff;
+  background: #f7e6ad;
 }
 
 #mobile-menu-close {
   display: none;
   text-align: right;
   width: 100%;
-  background: #fff;
+  background: #f7e6ad;
   font-size: 1.5em;
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #ffaffb;
+  color: #FDFCE5;
 }
 #mobile-menu-close span {
   font-size: 0.5em;
@@ -217,7 +217,7 @@ footer {
   padding: 10px;
 }
 .social a:hover {
-  color: #ffaffb;
+  color: #FDFCE5;
 }
 
 .btn-rounded-white {
@@ -229,7 +229,7 @@ footer {
   transition: 0.5s ease all;
 }
 .btn-rounded-white:hover {
-  color: #ffaffb;
+  color: #FDFCE5;
   background: #fff;
   text-decoration: none;
 }
@@ -258,11 +258,11 @@ footer {
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #ffaffb;
+  background: #FDFCE5;
 }
 
 .background-alt {
-  background: #f2f2f5;
+  background: #fff7d9;
 }
 
 /*
@@ -315,7 +315,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(255, 124, 248, 0.8);
+  background: rgba(249, 247, 182, 0.8);
   z-index: 1;
 }
 
@@ -363,10 +363,10 @@ footer {
 */
 #about {
   padding: 75px 15px;
-  border-bottom: 1px solid #13c030;
+  border-bottom: 1px solid #D7E9F7;
 }
 #about h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
 }
 #about p {
   color: #fff;
@@ -381,10 +381,10 @@ footer {
 #experience {
   padding: 50px 15px;
   text-align: center;
-  border-bottom: 1px solid #13c030;
+  border-bottom: 1px solid #D7E9F7;
 }
 #experience h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
 }
 
 #experience-timeline {
@@ -401,7 +401,7 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #ffaffb;
+  background: #FDFCE5;
   z-index: 0;
 }
 #experience-timeline:after {
@@ -409,8 +409,8 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #ffaffb;
-  background: linear-gradient(to bottom, #ffaffb, rgba(255, 175, 251, 0));
+  background: #FDFCE5;
+  background: linear-gradient(to bottom, #FDFCE5, rgba(253, 252, 229, 0));
   top: 100%;
   left: 303px;
 }
@@ -426,7 +426,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #f6d3ff;
+  color: #F4D19B;
   display: inline-block;
   margin: 0;
 }
@@ -454,7 +454,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #ffaffb;
+  background: #FDFCE5;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -483,11 +483,11 @@ footer {
 */
 #education {
   padding: 50px 15px 20px 15px;
-  border-bottom: 1px solid #13c030;
+  border-bottom: 1px solid #D7E9F7;
   text-align: center;
 }
 #education h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
   margin-bottom: 50px;
 }
 
@@ -495,14 +495,14 @@ footer {
   max-width: 700px;
   margin: 0 auto 30px auto;
   padding: 15px;
-  border: 1px solid #13c030;
+  border: 1px solid #D7E9F7;
   text-align: left;
 }
 .education-block h3 {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #f6d3ff;
+  color: #F4D19B;
 }
 .education-block span {
   color: #fff;
@@ -530,11 +530,11 @@ footer {
 */
 #projects {
   padding: 50px 15px;
-  border-bottom: 1px solid #13c030;
+  border-bottom: 1px solid #D7E9F7;
   text-align: center;
 }
 #projects h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
   margin-bottom: 50px;
 }
 
@@ -561,7 +561,7 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #f6d3ff;
+  color: #F4D19B;
   margin: 0 0 15px 0;
 }
 .project-info p {
@@ -591,7 +591,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -604,8 +604,8 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #f6d3ff;
-  background: #e4e4ea;
+  color: #F4D19B;
+  background: #fff2c0;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -618,7 +618,7 @@ footer {
 */
 #contact {
   padding: 50px 15px;
-  background: #ffaffb;
+  background: #FDFCE5;
   text-align: center;
 }
 #contact h2 {
@@ -638,7 +638,7 @@ footer {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #ff63f7;
+  background: #f8f49e;
   color: #fff;
   transition: 0.5s ease all;
 }
@@ -658,7 +658,7 @@ footer {
 }
 #contact-form input:focus, #contact-form textarea:focus {
   outline: none;
-  background: #ff30f5;
+  background: #f4ee6f;
 }
 #contact-form textarea {
   height: 150px;
@@ -671,7 +671,7 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #ffaffb;
+  color: #FDFCE5;
   font-weight: 700;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease all;
@@ -688,24 +688,24 @@ footer {
 .optional-section {
   padding: 50px 15px;
   text-align: center;
-  border-top: 1px solid #13c030;
+  border-top: 1px solid #D7E9F7;
 }
 .optional-section h2 {
-  color: #f6d3ff;
+  color: #F4D19B;
 }
 
 .optional-section-block {
   max-width: 700px;
   margin: 0 auto 30px auto;
   padding: 15px;
-  border: 1px solid #13c030;
+  border: 1px solid #D7E9F7;
   background: #fff;
   text-align: left;
 }
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #f6d3ff;
+  color: #F4D19B;
 }
 .optional-section-block h4 {
   color: #fff;
