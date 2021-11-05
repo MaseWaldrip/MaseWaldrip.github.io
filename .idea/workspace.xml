@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1f8c09-d31a-422b-8690-f22af1fd00c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.css" afterDir="false" />
     </list>
@@ -28,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="313" column="9" lean-forward="true" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+            <state relative-caret-position="-2">
+              <caret line="281" column="1" selection-start-line="281" selection-end-line="281" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="813" column="3" lean-forward="true" selection-start-line="813" selection-start-column="3" selection-end-line="813" selection-end-column="3" />
+            <state relative-caret-position="470">
+              <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
             </state>
           </provider>
         </entry>
@@ -91,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -101,6 +102,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,11 +198,12 @@
       <workItem from="1636133500293" duration="39000" />
       <workItem from="1636133727312" duration="401000" />
       <workItem from="1636139231888" duration="830000" />
+      <workItem from="1636151469458" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19830000" />
+    <option name="totallyTimeSpent" value="20958000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,7 +218,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,15 +343,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="313" column="9" lean-forward="true" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+        <state relative-caret-position="-2">
+          <caret line="281" column="1" selection-start-line="281" selection-end-line="281" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="813" column="3" lean-forward="true" selection-start-line="813" selection-start-column="3" selection-end-line="813" selection-end-column="3" />
+        <state relative-caret-position="470">
+          <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
         </state>
       </provider>
     </entry>
