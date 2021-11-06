@@ -51,10 +51,10 @@ body.active {
 }
 
 .no-js #experience-timeline > div {
-  background: #141dff;
+  background: #91cfc3;
   padding: 10px;
   margin-bottom: 10px;
-  border: 1px solid #b2d1cb;
+  border: 1px solid #d1b769;
 }
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
@@ -100,7 +100,7 @@ header {
 }
 header ul {
   display: inline-block;
-  background: #141dff;
+  background: #91cfc3;
   text-align: center;
   padding: 10px;
   margin: 0;
@@ -112,7 +112,7 @@ header li {
 }
 header a {
   display: block;
-  color: #fff0fb;
+  color: #b2cfc9;
   padding: 10px;
 }
 header a:hover {
@@ -122,7 +122,7 @@ header a:hover {
   border-radius: 4px;
 }
 header a:focus {
-  color: #fff0fb;
+  color: #b2cfc9;
   text-decoration: none;
 }
 header.active {
@@ -143,24 +143,24 @@ header.sticky {
   position: fixed;
   right: 15px;
   top: 10px;
-  color: #fff0fb;
+  color: #b2cfc9;
   font-size: 1.5em;
   z-index: 20;
   padding: 0 7px;
   border-radius: 4px;
-  background: #141dff;
+  background: #91cfc3;
 }
 
 #mobile-menu-close {
   display: none;
   text-align: right;
   width: 100%;
-  background: #141dff;
+  background: #91cfc3;
   font-size: 1.5em;
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #fff0fb;
+  color: #b2cfc9;
 }
 #mobile-menu-close span {
   font-size: 0.5em;
@@ -217,7 +217,7 @@ footer {
   padding: 10px;
 }
 .social a:hover {
-  color: #fff0fb;
+  color: #b2cfc9;
 }
 
 .btn-rounded-white {
@@ -229,7 +229,7 @@ footer {
   transition: 0.5s ease all;
 }
 .btn-rounded-white:hover {
-  color: #fff0fb;
+  color: #b2cfc9;
   background: #fff;
   text-decoration: none;
 }
@@ -258,11 +258,11 @@ footer {
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #fff0fb;
+  background: #b2cfc9;
 }
 
 .background-alt {
-  background: #ffe6f8;
+  background: #a5cfc6;
 }
 
 /*
@@ -368,7 +368,7 @@ footer {
 */
 #about {
   padding: 75px 15px;
-  border-bottom: 1px solid #b2d1cb;
+  border-bottom: 1px solid #d1b769;
 }
 #about h2 {
   color: #000000;
@@ -386,7 +386,7 @@ footer {
 #experience {
   padding: 50px 15px;
   text-align: center;
-  border-bottom: 1px solid #b2d1cb;
+  border-bottom: 1px solid #d1b769;
 }
 #experience h2 {
   color: #000000;
@@ -406,7 +406,7 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #fff0fb;
+  background: #b2cfc9;
   z-index: 0;
 }
 #experience-timeline:after {
@@ -414,8 +414,8 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #fff0fb;
-  background: linear-gradient(to bottom, #fff0fb, rgba(255, 240, 251, 0));
+  background: #b2cfc9;
+  background: linear-gradient(to bottom, #b2cfc9, rgba(178, 207, 201, 0));
   top: 100%;
   left: 303px;
 }
@@ -459,7 +459,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #fff0fb;
+  background: #b2cfc9;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -488,7 +488,7 @@ footer {
 */
 #education {
   padding: 50px 15px 20px 15px;
-  border-bottom: 1px solid #b2d1cb;
+  border-bottom: 1px solid #d1b769;
   text-align: center;
 }
 #education h2 {
@@ -500,7 +500,7 @@ footer {
   max-width: 700px;
   margin: 0 auto 30px auto;
   padding: 15px;
-  border: 1px solid #b2d1cb;
+  border: 1px solid #d1b769;
   text-align: left;
 }
 .education-block h3 {
@@ -535,7 +535,7 @@ footer {
 */
 #projects {
   padding: 50px 15px;
-  border-bottom: 1px solid #b2d1cb;
+  border-bottom: 1px solid #d1b769;
   text-align: center;
 }
 #projects h2 {
@@ -610,7 +610,7 @@ footer {
   margin: 7px;
   padding: 5px 10px;
   color: #000000;
-  background: #ffcdf1;
+  background: #94c6bb;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -623,7 +623,7 @@ footer {
 */
 #contact {
   padding: 50px 15px;
-  background: #fff0fb;
+  background: #b2cfc9;
   text-align: center;
 }
 #contact h2 {
@@ -643,7 +643,7 @@ footer {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #ffa4e7;
+  background: #83b2a8;
   color: #fff;
   transition: 0.5s ease all;
 }
@@ -663,7 +663,7 @@ footer {
 }
 #contact-form input:focus, #contact-form textarea:focus {
   outline: none;
-  background: #ff71d9;
+  background: #639e92;
 }
 #contact-form textarea {
   height: 150px;
@@ -676,7 +676,7 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #fff0fb;
+  color: #b2cfc9;
   font-weight: 700;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease all;
@@ -693,7 +693,7 @@ footer {
 .optional-section {
   padding: 50px 15px;
   text-align: center;
-  border-top: 1px solid #b2d1cb;
+  border-top: 1px solid #d1b769;
 }
 .optional-section h2 {
   color: #000000;
@@ -703,7 +703,7 @@ footer {
   max-width: 700px;
   margin: 0 auto 30px auto;
   padding: 15px;
-  border: 1px solid #b2d1cb;
+  border: 1px solid #d1b769;
   background: #fff;
   text-align: left;
 }
