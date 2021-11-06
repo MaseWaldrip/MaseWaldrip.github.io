@@ -51,7 +51,7 @@ body.active {
 }
 
 .no-js #experience-timeline > div {
-  background: #fff0fb;
+  background: #141dff;
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #b2d1cb;
@@ -100,7 +100,7 @@ header {
 }
 header ul {
   display: inline-block;
-  background: #fff0fb;
+  background: #141dff;
   text-align: center;
   padding: 10px;
   margin: 0;
@@ -148,14 +148,14 @@ header.sticky {
   z-index: 20;
   padding: 0 7px;
   border-radius: 4px;
-  background: #fff0fb;
+  background: #141dff;
 }
 
 #mobile-menu-close {
   display: none;
   text-align: right;
   width: 100%;
-  background: #fff0fb;
+  background: #141dff;
   font-size: 1.5em;
   padding-right: 15px;
   padding-top: 10px;
