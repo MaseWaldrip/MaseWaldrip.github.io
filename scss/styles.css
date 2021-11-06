@@ -59,7 +59,7 @@ body.active {
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #ffffff;
+  color: #363636;
   display: inline-block;
   margin: 0;
 }
@@ -70,7 +70,7 @@ body.active {
   margin: 0 0 15px 0;
 }
 .no-js #experience-timeline > div p {
-  color: #ffffff;
+  color: #363636;
   font-size: 0.9em;
   margin: 0;
 }
@@ -179,7 +179,7 @@ footer {
 }
 .copyright p {
   margin: 0;
-  color: #ffffff;
+  color: #363636;
 }
 
 .top {
@@ -192,11 +192,11 @@ footer {
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid #767676;
   text-align: center;
 }
 .top i {
-  color: #ffffff;
+  color: #363636;
 }
 
 .social {
@@ -213,7 +213,7 @@ footer {
 }
 .social a {
   display: block;
-  color: #ffffff;
+  color: #363636;
   padding: 10px;
 }
 .social a:hover {
@@ -371,10 +371,10 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #about h2 {
-  color: #ffffff;
+  color: #363636;
 }
 #about p {
-  color: #ffffff;
+  color: #363636;
   margin: 0;
 }
 
@@ -389,7 +389,7 @@ footer {
   border-bottom: 1px solid #b2d1cb;
 }
 #experience h2 {
-  color: #ffffff;
+  color: #363636;
 }
 
 #experience-timeline {
@@ -431,7 +431,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #ffffff;
+  color: #363636;
   display: inline-block;
   margin: 0;
 }
@@ -442,7 +442,7 @@ footer {
   margin: 0 0 15px 0;
 }
 .vtimeline-content p {
-  color: #ffffff;
+  color: #363636;
   font-size: 0.9em;
   margin: 0;
 }
@@ -492,7 +492,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #ffffff;
+  color: #363636;
   margin-bottom: 50px;
 }
 
@@ -507,21 +507,21 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #ffffff;
+  color: #363636;
 }
 .education-block span {
-  color: #ffffff;
+  color: #363636;
   float: right;
 }
 .education-block h4 {
-  color: #ffffff;
+  color: #363636;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .education-block p, .education-block ul {
   margin: 0;
-  color: #ffffff;
+  color: #363636;
   font-size: 0.9em;
 }
 .education-block ul {
@@ -539,7 +539,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #ffffff;
+  color: #363636;
   margin-bottom: 50px;
 }
 
@@ -566,11 +566,11 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #ffffff;
+  color: #363636;
   margin: 0 0 15px 0;
 }
 .project-info p {
-  color: #ffffff;
+  color: #363636;
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
@@ -596,7 +596,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #ffffff;
+  color: #363636;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -609,7 +609,7 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #ffffff;
+  color: #363636;
   background: #ffcdf1;
   list-style: none;
   cursor: default;
@@ -696,7 +696,7 @@ footer {
   border-top: 1px solid #b2d1cb;
 }
 .optional-section h2 {
-  color: #ffffff;
+  color: #363636;
 }
 
 .optional-section-block {
@@ -710,17 +710,17 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #ffffff;
+  color: #363636;
 }
 .optional-section-block h4 {
-  color: #ffffff;
+  color: #363636;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 .optional-section-block p, .optional-section-block ul {
   margin: 0 0 15px 0;
-  color: #ffffff;
+  color: #363636;
   font-size: 0.9em;
 }
 .optional-section-block ul {
