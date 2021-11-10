@@ -13,7 +13,7 @@
 (function($) {
 
     //Hopefully this works
-    $('projects').singlePageNav({filter: ':not(.external)'});
+    $(document).singlePageNav({filter: ':not(.external)'});
 
     // Remove no-js class
     $('html').removeClass('no-js');
